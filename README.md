@@ -47,13 +47,6 @@ This is a Front-End To-Do List Web Application built using HTML, CSS, and Vanill
 
 
 
-
-##  Live Demo
-([live demo](https://anushavv3.github.io/To-do-list/))
-
----
-
-
 ##  Getting Started
 
 ### Step 1 — Clone Repository
@@ -61,7 +54,7 @@ This is a Front-End To-Do List Web Application built using HTML, CSS, and Vanill
 
 git clone <https://github.com/anushavv3/To-do-list>
 
-git clone <your-repo-url>
+
 
 ```
 
@@ -76,10 +69,4 @@ Use Live Server Extension
 ---
 
 
-## 👨‍💻 Author
-(Anusha V V)
 
----
-
-## 📜 License
-For educational and learning purposes only.
