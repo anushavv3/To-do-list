@@ -46,7 +46,6 @@ This is a Front-End To-Do List Web Application built using HTML, CSS, and Vanill
 ---
 
 
-
 ##  Getting Started
 
 ### Step 1 — Clone Repository
