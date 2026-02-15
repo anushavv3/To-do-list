@@ -4,7 +4,7 @@
 }
 
 body {
-  background: rgb(235, 234, 236);
+  background: #f4f6f9;
   display: flex;
   justify-content: center;
   margin-top: 60px;
@@ -55,7 +55,7 @@ li {
   display: flex;
   justify-content: space-between;
   padding: 10px;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid #eee;
 }
 
 .completed {

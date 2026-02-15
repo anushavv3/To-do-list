@@ -1,9 +1,12 @@
 "use strict";
 
 
+
+
 const input = document.getElementById("taskInput");
 const button = document.getElementById("addBtn");
 const list = document.getElementById("taskList");
+
 
 
 function createTask(taskText) {
@@ -16,11 +19,26 @@ function createTask(taskText) {
   span.textContent = taskText;
 
   
+}
+
+function createTask(taskText) {
+
+  
+  const li = document.createElement("li");
+
+  
+  const span = document.createElement("span");
+  span.textContent = taskText;
+
+
   span.addEventListener("click", () => {
     li.classList.toggle("completed");
   });
 
+
  
+
+
   const deleteBtn = document.createElement("button");
   deleteBtn.textContent = "Delete";
   deleteBtn.classList.add("delete-btn");
@@ -36,13 +54,19 @@ function createTask(taskText) {
 }
 
 
+
+
+
+
 function addTask() {
 
   try {
 
     const taskText = input.value.trim();
 
+
   
+
     if (taskText === "") {
       alert("Task cannot be empty");
       return;
@@ -51,7 +75,7 @@ function addTask() {
     const taskElement = createTask(taskText);
     list.appendChild(taskElement);
 
-    
+
     input.value = "";
     input.focus();
 
@@ -63,7 +87,13 @@ function addTask() {
 
 
 
+
 button.addEventListener("click", addTask);
+
+
+
+button.addEventListener("click", addTask);
+
 
 
 input.addEventListener("keypress", function (e) {

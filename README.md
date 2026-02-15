@@ -35,6 +35,7 @@ This is a Front-End To-Do List Web Application built using HTML, CSS, and Vanill
 - Instant UI Update  
 
 ---
+
 ![To do list Preview](screenshot1.png)
 
 ![To do list Preview](screenshot2.png)
@@ -45,11 +46,23 @@ This is a Front-End To-Do List Web Application built using HTML, CSS, and Vanill
 ---
 
 
+
+
+##  Live Demo
+([live demo](https://anushavv3.github.io/To-do-list/))
+
+---
+
+
 ##  Getting Started
 
 ### Step 1 — Clone Repository
 ```
+
 git clone <https://github.com/anushavv3/To-do-list>
+
+git clone <your-repo-url>
+
 ```
 
 ### Step 2 — Open Project Folder
