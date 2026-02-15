@@ -40,32 +40,13 @@ This is a Front-End To-Do List Web Application built using HTML, CSS, and Vanill
 
 ![To do list Preview](screenshot2.png)
 
-##  Live Demo
-[to do list](https://anushavv3.github.io/To-do-list/)
+
+[Live demo](https://anushavv3.github.io/To-do-list/)
 
 ---
 
 
-##  Getting Started
 
-### Step 1 — Clone Repository
-```
-
-git clone <https://github.com/anushavv3/To-do-list>
-
-
-
-```
-
-### Step 2 — Open Project Folder
-Open in VS Code or any code editor.
-
-### Step 3 — Run Project
-Open `index.html` in browser  
-OR  
-Use Live Server Extension
-
----
 
 
 
